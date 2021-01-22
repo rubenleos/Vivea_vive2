@@ -1,0 +1,57 @@
+{
+   "recetasPopulares": [
+ {"titulo":"platillo ",
+    "foto":"https://tse4.mm.bing.net/th?id=OIP.pRWDM3mDtd8o8-fYWZ4pxQHaE8&pid=Api&P=0&w=251&h=169",
+    "calorias":"245",
+    "descripsion":"aqui vamos a describir los platillos perro"
+    
+
+    
+
+
+
+
+   },
+   {"titulo":"platillo 2",
+    "foto":"https://d1uz88p17r663j.cloudfront.net/resized/84e720e8bc62d59c69924ba55da2b810_ensalada_de_pollo_1_1200_600.jpg",
+    "calorias":"255",
+    "descripsion":"aqui vamos a describir los platillos perro"
+   },
+   {"titulo":"platillo 3",
+      "foto":"https://www.superama.com.mx/views/micrositio/recetas/images/comidasaludable/ensaladamixta/Web_fotoreceta.jpg",
+      "calorias":"255",
+      "descripsion":"aqui vamos a describir los platillos perro"
+     }
+  
+],
+"categorias": [
+   {"titulo":"vegana  ",
+      "foto":"https://tse4.mm.bing.net/th?id=OIP.pRWDM3mDtd8o8-fYWZ4pxQHaE8&pid=Api&P=0&w=251&h=169",
+      "calorias":"245",
+      "descripsion":"aqui vamos a describir los platillos perro"
+      
+  
+      
+  
+  
+  
+  
+     },
+     {"titulo":"keto",
+      "foto":"https://d1uz88p17r663j.cloudfront.net/resized/84e720e8bc62d59c69924ba55da2b810_ensalada_de_pollo_1_1200_600.jpg",
+      "calorias":"255",
+      "descripsion":"aqui vamos a describir los platillos perro"
+     },
+     {"titulo":"sissi",
+        "foto":"https://www.superama.com.mx/views/micrositio/recetas/images/comidasaludable/ensaladamixta/Web_fotoreceta.jpg",
+        "calorias":"255",
+        "descripsion":"aqui vamos a describir los platillos perro"
+       }
+    
+  ]
+   
+
+
+
+
+}
