@@ -1,0 +1,4 @@
+#Tue Jan 19 19:56:25 CST 2021
+base.0=D\:\\6QW95LA_\\Documents\\flutter_proyectos\\vivea_dos\\build\\app\\intermediates\\transforms\\r8\\debug\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

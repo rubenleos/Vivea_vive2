@@ -1,0 +1,118 @@
+# Referenced at D:\6QW95LA_\Documents\flutter_proyectos\vivea_dos\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:21
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at D:\6QW95LA_\Documents\flutter_proyectos\vivea_dos\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:59
+-keep class com.example.vivea_dos.MainActivity { <init>(); }
+# Referenced at D:\6QW95LA_\Documents\flutter_proyectos\vivea_dos\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:264
+-keep class com.facebook.CurrentAccessTokenExpirationBroadcastReceiver { <init>(); }
+# Referenced at D:\6QW95LA_\Documents\flutter_proyectos\vivea_dos\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:37
+-keep class com.facebook.CustomTabActivity { <init>(); }
+# Referenced at D:\6QW95LA_\Documents\flutter_proyectos\vivea_dos\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:211
+-keep class com.facebook.CustomTabMainActivity { <init>(); }
+# Referenced at D:\6QW95LA_\Documents\flutter_proyectos\vivea_dos\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:32
+-keep class com.facebook.FacebookActivity { <init>(); }
+# Referenced at D:\6QW95LA_\Documents\flutter_proyectos\vivea_dos\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:259
+-keep class com.facebook.internal.FacebookInitProvider { <init>(); }
+# Referenced at D:\6QW95LA_\Documents\flutter_proyectos\vivea_dos\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:221
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+# Referenced at D:\6QW95LA_\Documents\flutter_proyectos\vivea_dos\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:212
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+# Referenced at D:\6QW95LA_\Documents\flutter_proyectos\vivea_dos\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:226
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at D:\6QW95LA_\Documents\flutter_proyectos\vivea_dos\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:241
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at D:\6QW95LA_\Documents\flutter_proyectos\vivea_dos\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:231
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at D:\6QW95LA_\Documents\flutter_proyectos\vivea_dos\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:237
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at D:\6QW95LA_\Documents\flutter_proyectos\vivea_dos\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:193
+-keep class com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService { <init>(); }
+# Referenced at D:\6QW95LA_\Documents\flutter_proyectos\vivea_dos\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:156
+-keep class com.google.firebase.auth.internal.GenericIdpActivity { <init>(); }
+# Referenced at D:\6QW95LA_\Documents\flutter_proyectos\vivea_dos\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:174
+-keep class com.google.firebase.auth.internal.RecaptchaActivity { <init>(); }
+# Referenced at D:\6QW95LA_\Documents\flutter_proyectos\vivea_dos\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:101
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at D:\6QW95LA_\Documents\flutter_proyectos\vivea_dos\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:204
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at D:\6QW95LA_\Documents\flutter_proyectos\vivea_dos\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:21
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at D:\6QW95LA_\Documents\flutter_proyectos\vivea_dos\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:146
+-keep class io.flutter.plugins.imagepicker.ImagePickerFileProvider { <init>(); }
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_alert_dialog_title_material.xml:57
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_alert_dialog_material.xml:52
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_alert_dialog_button_bar_material.xml:43
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_select_dialog_material.xml:23
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_action_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_expanded_menu_layout.xml:17
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_popup_menu_item_layout.xml:17
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_list_menu_item_layout.xml:17
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_cascading_menu_item_layout.xml:20
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_screen_toolbar.xml:27
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_screen_toolbar.xml:43
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_action_mode_bar.xml:19
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_screen_toolbar.xml:17
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_action_menu_layout.xml:17
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(...); }
+
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_activity_chooser_view.xml:19
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_alert_dialog_material.xml:18
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\a6c873695d6f4af779df9d8e15b29673\facebook-common-8.1.0\res\layout\com_facebook_smart_device_dialog_fragment.xml:47
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\a6c873695d6f4af779df9d8e15b29673\facebook-common-8.1.0\res\layout\com_facebook_device_auth_dialog_fragment.xml:45
+-keep class androidx.appcompat.widget.AppCompatImageView { <init>(...); }
+
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_alert_dialog_button_bar_material.xml:26
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_screen_content_include.xml:19
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_alert_dialog_title_material.xml:45
+-keep class androidx.appcompat.widget.DialogTitle { <init>(...); }
+
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_screen_simple_overlay_action_mode.xml:23
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_screen_simple.xml:17
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_dialog_title_material.xml:22
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_search_view.xml:75
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_screen_toolbar.xml:36
+-keep class androidx.appcompat.widget.Toolbar { <init>(...); }
+
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_screen_simple.xml:25
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\0541fa5e38d1897cfbdc1992e7cb4505\browser-1.0.0\res\layout\browser_actions_context_menu_page.xml:5
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
+
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\a6c873695d6f4af779df9d8e15b29673\facebook-common-8.1.0\res\layout\com_facebook_smart_device_dialog_fragment.xml:22
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\a6c873695d6f4af779df9d8e15b29673\facebook-common-8.1.0\res\layout\com_facebook_device_auth_dialog_fragment.xml:22
+-keep class androidx.cardview.widget.CardView { <init>(...); }
+
+# Referenced at C:\Users\6QW95LA_\.gradle\caches\transforms-2\files-2.1\312b34eb4fe03382af389636632267ce\appcompat-1.1.0\res\layout\abc_alert_dialog_material.xml:41
+-keep class androidx.core.widget.NestedScrollView { <init>(...); }
+
